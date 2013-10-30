@@ -13,9 +13,13 @@
 
 <?php echo "PHP works<br>" ?>
 
+<<<<<<< HEAD:index-old.php
 <?php echo "David's Edit to the page<br>" ?>
 
 <?php echo "Jake was here!! and this smiley beats Christy's: (<>_<>)<br>"
+=======
+<?php echo "David's Edit to the page again for the meeting<br>"
+>>>>>>> edited echo statement on line 16:index.php
 
 	/*my dinky little edit*/
 	/*maybe it will get submitted*/
